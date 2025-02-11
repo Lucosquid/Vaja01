@@ -4,3 +4,4 @@ Sprememba v main veji.
 
 Sprememba v veja1. 
  veja1
+Nova vsebina v datoteki. 
