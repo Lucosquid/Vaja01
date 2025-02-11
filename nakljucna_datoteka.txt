@@ -1,2 +1,6 @@
 To je nakljuŸna vsebina. 
+ HEAD
 Sprememba v main veji. 
+
+Sprememba v veja1. 
+ veja1
